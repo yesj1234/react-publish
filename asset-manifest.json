@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-publish/static/css/main.e6c13ad2.css",
+    "main.js": "/react-publish/static/js/main.e71d82a1.js",
+    "index.html": "/react-publish/index.html",
+    "main.e6c13ad2.css.map": "/react-publish/static/css/main.e6c13ad2.css.map",
+    "main.e71d82a1.js.map": "/react-publish/static/js/main.e71d82a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e71d82a1.js"
+  ]
+}
