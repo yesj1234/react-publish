@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/react-masterclass-ToDos/static/css/main.29fd3b54.css",
-    "main.js": "/react-masterclass-ToDos/static/js/main.9a43f7db.js",
+    "main.js": "/react-masterclass-ToDos/static/js/main.6e528394.js",
     "index.html": "/react-masterclass-ToDos/index.html",
-    "main.9a43f7db.js.map": "/react-masterclass-ToDos/static/js/main.9a43f7db.js.map"
+    "main.6e528394.js.map": "/react-masterclass-ToDos/static/js/main.6e528394.js.map"
   },
   "entrypoints": [
     "static/css/main.29fd3b54.css",
-    "static/js/main.9a43f7db.js"
+    "static/js/main.6e528394.js"
   ]
 }
